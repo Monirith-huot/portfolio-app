@@ -1,0 +1,72 @@
+[
+  {
+    "workDate": "Oct 2022 - PRESENT",
+    "type": "Full Time",
+    "companyName": "Bikay, Cambodia",
+    "position": "FrontEnd and Mobile Developer",
+    "roles": [
+      "Analyze the requirements from clients",
+      "Execute those requirements",
+      "Debug the application to ensure it is working properly",
+      "Oversaw the app's tailored deployment, exceeding expectations."
+    ]
+  },
+  {
+    "workDate": "May 2023 - PRESENT",
+    "type": "Internship",
+    "companyName": "VKClub Visual Company",
+    "position": "Lead Mobile Developer",
+    "roles": [
+      "Designed a bespoke app, precisely meeting management's specifications.",
+      "Guided the development phase, ensuring goals alignment.",
+      "Streamlined project timelines and quality, boosting efficiency.",
+      "Delivered strategic updates to leadership, driving project momentum.",
+      "Facilitated cross-departmental, particularly with the financial and management team at vKirirom, ensuring alignment with organizational goals."
+    ]
+  },
+  {
+    "workDate": "Feb 2023 - PRESENT",
+    "type": "Internship",
+    "companyName": "Shuttle Bus Visual Company",
+    "position": "Lead FrontEnd Developer",
+    "roles": [
+      "Secured a precise grasp of management's needs",
+      "Designed the app's interface to align with their specific demands. ",
+      "Successfully led the development phase, ensuring project excellence.",
+      "Effectively managed project timelines, assigned tasks, and reviewed code and tasks.",
+      "Consistently delivered impactful weekly progress reports to senior management, highlighting achievements, issues, and future plans."
+    ]
+  },
+  {
+    "workDate": "Sep 2022 - Nov 2022",
+    "type": "Internship",
+    "companyName": "VGo Visual Company",
+    "position": "Mobile Developer",
+    "roles": [
+      "Ensure a clear understanding of management requirements.",
+      "Crafted the application's interface based on their detailed specifications",
+      "Executed the development of the project"
+    ]
+  },
+  {
+    "workDate": "Sep 2022 - Nov 2022",
+    "type": "Internship",
+    "companyName": "Japaneses Client",
+    "position": "Mobile Developer",
+    "roles": [
+      "Engaged with clients to clarify and fully comprehend their requirements.",
+      "Designed the application interface in alignment with their specifications",
+      "Developed and deployed the mobile application."
+    ]
+  },
+  {
+    "workDate": "Sep 2022 - Nov 2022",
+    "type": "Internship",
+    "companyName": "Flib Visual Company",
+    "position": "FrontEnd Developer",
+    "roles": [
+      "Developed and implemented new requirements as directed by management.",
+      "Maintaining and enhancing existing projects."
+    ]
+  }
+]
