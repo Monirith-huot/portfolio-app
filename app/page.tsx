@@ -25,7 +25,6 @@ import {
   CardHeader,
   CardTitle
 } from '@/components/ui/card';
-import exp from 'constants';
 export default function Home() {
   const { theme, setTheme } = useTheme();
 
@@ -61,14 +60,14 @@ export default function Home() {
           <span className='font-bold'>
             Mobile development (Cross platform){' '}
           </span>
-          <span className='font-bold'>UX/UI</span>.{' '}
+          <span>and</span> <span className='font-bold'>UX/UI</span>.{' '}
         </p>
       </div>
 
       <div className='pt-5 flex flex-row items-center'>
-        <p className='pr-2'>Find me on : </p>
+        <p className='pr-2 text-sm'>Find me on : </p>
 
-        <p>
+        <p className='text-sm'>
           <Link
             target='_blank'
             href={'https://gitlab.com/hmonirith'}
@@ -92,12 +91,22 @@ export default function Home() {
         </p>
       </div>
 
-      <div className='pt-5'>
-        <p>CV : </p>
+      <div className='pt-5 flex flex-row '>
+        <Card className='px-2 py-1 rounded-md items-center justify-center'>
+          <a
+            href='/Huot_Monirith_Software_Engineer.pdf'
+            target='_blank'
+            rel='noopener noreferrer'
+            download
+            className='text-xs'>
+            My Resume
+          </a>
+        </Card>
       </div>
 
-      <div className='pt-5'>
-        <p>Work Gmail : </p>
+      <div className='pt-5 flex flex-row items-center'>
+        <p className='mr-2 text-sm'>Work Gmail : </p>
+        <p className='text-sm'>hmonrith@gmail.com</p>
       </div>
 
       <hr className='mt-10'></hr>
@@ -135,7 +144,7 @@ export default function Home() {
                     <Link
                       className='text-xs font-semibold hover:underline'
                       href={{
-                        pathname: `/products/${product.id}`
+                        pathname: `/Products/${product.id}`
                       }}>
                       Read More {`->`}
                     </Link>

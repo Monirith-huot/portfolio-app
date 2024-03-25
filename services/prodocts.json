@@ -5,10 +5,16 @@
     "technology": ["React-Native", "Mobx"],
     "description": "The KT App, by BiKay and Melon Rouge for East-West Seed Knowledge Transfer Foundation, improves agricultural training with essential features for over 716,000 farmers facilitating access to knowledge and supporting safe vegetable cultivation.",
     "website": "https://www.example.com/product3",
-    "image": []
+    "images": [
+      "/shuttle_bus/landing.png",
+      "/shuttle_bus/available.png",
+      "/shuttle_bus/ticket.png",
+      "/shuttle_bus/history.png",
+      "/shuttle_bus/profile.png"
+    ]
   },
   {
-    "id": "ShuttleBusBookingSystem",
+    "id": "Shuttle-Bus-Booking-System",
     "title": "Shuttle Bus Booking System",
     "technology": ["Next.js", "Tailwind", "Typescript", "Figma"],
     "description": "With more than 200 active users, Shuttle bus Booking system enhances transportation for students, lecturers and guest supporting seamless travel from Phnom Penh Kirirom",
@@ -24,14 +30,21 @@
     ]
   },
   {
-    "id": "ShuttleBusAdminSystem",
+    "id": "Shuttle-Bus-Admin-System",
     "title": "Shuttle Bus Admin System",
     "technology": ["Next.js", "Tailwind", "Typescript", "Figma"],
     "description": "allowing for the meticulous management of schedules, buses, destinations, and comprehensive user profiles within the application",
-    "website": "https://www.example.com/product2"
+    "website": "https://www.example.com/product2",
+    "images": [
+      "/shuttle_bus/landing.png",
+      "/shuttle_bus/available.png",
+      "/shuttle_bus/ticket.png",
+      "/shuttle_bus/history.png",
+      "/shuttle_bus/profile.png"
+    ]
   },
   {
-    "id": "vKClub",
+    "id": "vkClub",
     "title": "vKClub",
     "technology": [
       "Flutter",
@@ -41,6 +54,13 @@
       "ABA Payment Getway"
     ],
     "description": "With over 70 active users, the VKClub App enhances the vKirirom Pine Resort experience by offering connectivity, safety features, payment, and updates in one convenient platform.",
-    "website": "https://www.example.com/product3"
+    "website": "https://www.example.com/product3",
+    "images": [
+      "/shuttle_bus/landing.png",
+      "/shuttle_bus/available.png",
+      "/shuttle_bus/ticket.png",
+      "/shuttle_bus/history.png",
+      "/shuttle_bus/profile.png"
+    ]
   }
 ]
